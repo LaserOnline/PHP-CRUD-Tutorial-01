@@ -19,7 +19,7 @@
         </a>
         <table id='mytable' class="table table-bordered table-striped">
             <thead>
-                <th>#</th>
+                <th>ID</th>
                 <th>First Name</th>
                 <th>Last Name</th>
                 <th>Email</th>
